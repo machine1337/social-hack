@@ -36,5 +36,4 @@ A very user friendly and advanced phishing toolkit made for hackers
    2. https://www.facebook.com/pakhack01
    3. https://www.youtube.com/channel/UCC_aPnmV_zGfdwktCFE9cPQ
    
-# Thanks To:
-      htr-tech
+
