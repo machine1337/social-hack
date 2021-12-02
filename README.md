@@ -3,6 +3,9 @@ A very user friendly and advanced phishing toolkit made for hackers
 
 ![pl](https://user-images.githubusercontent.com/82051128/142736038-0a6a146e-e564-4b70-a069-0d9f51ece794.jpg)
 
+# Tutorial:
+  https://youtu.be/5FE--OE7Fjk
+
 # Installation:
     For Linux Based Os:
         1. git clone https://github.com/machine1337/social-hack
